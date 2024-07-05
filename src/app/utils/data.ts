@@ -124,8 +124,8 @@ export const skillsData = [
     name: 'Bootstrap'
   },
   {
-    img: 'angularjs/angularjs-original.svg',
-    name: 'AngularJs'
+    img: 'angular/angular-original.svg',
+    name: 'Angular'
   },
   {
     img: 'nextjs/nextjs-original.svg',
